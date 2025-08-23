@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adarsh Singh  
 
-## 🎮 Rock Paper Scissors Game  
-This is a simple **Rock Paper Scissors** game built in Python.  
+## This is my Leetcode account description
+
 
 ### ✨ Features
 - User vs Computer gameplay  
