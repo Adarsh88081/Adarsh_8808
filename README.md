@@ -2,12 +2,6 @@
 
 ## This is my Leetcode account description
 
-
-### ✨ Features
-- User vs Computer gameplay  
-- Randomized computer moves  
-- Easy to play via command line  
-
 ---
 
 ## 🧩 LeetCode Progress
